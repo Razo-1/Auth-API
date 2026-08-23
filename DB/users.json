@@ -6,6 +6,60 @@
     "password": "12345678",
     "gender": "male",
     "id": 1787504920662,
+    "isActive": true
+  },
+  {
+    "name": "Sarah",
+    "email": "sarah.johnson@gmail.com",
+    "age": 28,
+    "password": "secure_pass_123",
+    "gender": "female",
+    "id": 1787504920663,
+    "isActive": false
+  },
+  {
+    "name": "Michael",
+    "email": "michael.brown@gmail.com",
+    "age": 35,
+    "password": "password_456",
+    "gender": "male",
+    "id": 1787504920664,
+    "isActive": false
+  },
+  {
+    "name": "Emily",
+    "email": "emily.wilson@gmail.com",
+    "age": 26,
+    "password": "emily_pass_789",
+    "gender": "female",
+    "id": 1787504920665,
+    "isActive": false
+  },
+  {
+    "name": "James",
+    "email": "james.taylor@gmail.com",
+    "age": 32,
+    "password": "james_123456",
+    "gender": "male",
+    "id": 1787504920666,
+    "isActive": false
+  },
+  {
+    "name": "Alexis",
+    "email": "alexis.martinez@gmail.com",
+    "age": 29,
+    "password": "alex_pass_999",
+    "gender": "female",
+    "id": 1787507297761,
+    "isActive": false
+  },
+  {
+    "name": "Ani",
+    "email": "Ani.johnson@gmail.com",
+    "age": 24,
+    "password": "pass_123_123",
+    "gender": "female",
+    "id": 1787511277658,
     "isActive": false
   }
 ]

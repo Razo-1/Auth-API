@@ -1,0 +1,11 @@
+[
+  {
+    "name": "David",
+    "email": "david@gmail.com",
+    "age": 30,
+    "password": "12345678",
+    "gender": "male",
+    "id": 1787504920662,
+    "isActive": true
+  }
+]
