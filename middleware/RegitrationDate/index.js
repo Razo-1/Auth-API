@@ -1,4 +1,4 @@
-const { authSchema } = require("../../Schema/AuthSchema");
+const { authSchema } = require("../../Schema");
 const { RDB } = require('../RDB');
 
 const data_verification = async (req,res,next) => {

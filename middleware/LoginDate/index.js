@@ -1,4 +1,4 @@
-const { loginSchema } = require('../../Schema/LoginSchem.js');
+const { loginSchema } = require('../../Schema');
 const { readLogin } = require('../R_Online');
 const { RDB } = require('../RDB');
 
